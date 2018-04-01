@@ -1,0 +1,211 @@
+.DESIGN-BUILD-HIGH- {
+  width: 421px;
+  height: 200px;
+  font-family: Roboto;
+  font-size: 42px;
+  font-weight: 300;
+  font-style: normal;
+  font-stretch: normal;
+  line-height: 1.19;
+  letter-spacing: normal;
+  text-align: left;
+  color: #262628;
+}
+.Get-more-work-done-w {
+  width: 421px;
+  height: 50px;
+  font-family: Roboto;
+  font-size: 20px;
+  font-weight: normal;
+  font-style: normal;
+  font-stretch: normal;
+  line-height: 1.25;
+  letter-spacing: normal;
+  text-align: left;
+  color: #262628;
+}
+.btnProjectStart {
+  width: 189px;
+  height: 50px;
+  border-radius: 4px;
+  background-color: #0681ff;
+  font-family: Roboto;
+  font-size: 20px;
+  font-weight: 500;
+  font-style: normal;
+  font-stretch: normal;
+  line-height: 2.5;
+  letter-spacing: normal;
+  text-align: left;
+  color: #ffffff;
+}
+.grain-effect {
+  width: 739px;
+  height: 421px;
+  object-fit: contain;
+}
+
+.headerSection {
+  width: 847px;
+  height: 90px;
+  font-family: Roboto;
+  font-size: 36px;
+  font-weight: 300;
+  font-style: normal;
+  font-stretch: normal;
+  line-height: 1.25;
+  letter-spacing: normal;
+  text-align: center;
+  color: #262628;
+}
+.product-design-other {
+  width: 43px;
+  height: 40px;
+  object-fit: contain;
+}
+.product-dev-prototype {
+  width: 46px;
+  height: 40px;
+  object-fit: contain;
+}
+.product-dev-other {
+  width: 41px;
+  height: 40px;
+  object-fit: contain;
+}
+.product-qa-mobility-testing {
+  width: 40px;
+  height: 40px;
+  object-fit: contain;
+}
+.appHead {
+  font-family: Roboto;
+  font-size: 20px;
+  font-weight: normal;
+  font-style: normal;
+  font-stretch: normal;
+  line-height: 1.25;
+  letter-spacing: normal;
+  text-align: center;
+  color: #262628;
+}
+.appDetails {
+  width: 393px;
+  height: 118px;
+  font-family: Roboto;
+  font-size: 15px;
+  font-weight: normal;
+  font-style: normal;
+  font-stretch: normal;
+  line-height: 1.67;
+  letter-spacing: normal;
+  text-align: center;
+  color: #47474f;
+}
+.learnMore {
+  width: 128px;
+  height: 40px;
+  border-radius: 4px;
+  background-color: #0681ff;
+  font-family: Roboto;
+  font-size: 15px;
+  font-weight: 500;
+  font-style: normal;
+  font-stretch: normal;
+  line-height: 2.67;
+  letter-spacing: normal;
+  text-align: left;
+  color: #fafafb;
+}
+.Mask {
+  width: 867px;
+  height: 387px;
+  mix-blend-mode: soft-light;
+  background-image: linear-gradient(288deg, #25c089, #1a85ff);
+}
+.meetCommunity {
+  width: 413px;
+  height: 387px;
+  border-radius: 6px;
+  background-color: #37373c;
+}
+.meetCommunity .appHead {
+  width: 353px;
+  height: 45px;
+  font-family: Roboto;
+  font-size: 36px;
+  font-weight: 300;
+  font-style: normal;
+  font-stretch: normal;
+  line-height: 1.25;
+  letter-spacing: normal;
+  text-align: left;
+  color: #ffffff;
+}
+.meetCommunity .appDetails {
+  width: 353px;
+  height: 100px;
+  font-family: Roboto;
+  font-size: 15px;
+  font-weight: normal;
+  font-style: normal;
+  font-stretch: normal;
+  line-height: 1.67;
+  letter-spacing: normal;
+  text-align: left;
+  color: #ffffff;
+}
+.meetCommunity .learnMore {
+  width: 127px;
+  height: 40px;
+  border-radius: 4px;
+  background-color: #ffffff;
+  border: solid 1px #c3c3c8;
+  font-family: Roboto;
+  font-size: 15px;
+  font-weight: 500;
+  font-style: normal;
+  font-stretch: normal;
+  line-height: 2.67;
+  letter-spacing: normal;
+  text-align: left;
+  color: #47474f;
+}
+.How-it-Works {
+  width: 740px;
+  height: 45px;
+  font-family: Roboto;
+  font-size: 36px;
+  font-weight: 300;
+  font-style: normal;
+  font-stretch: normal;
+  line-height: 1.25;
+  letter-spacing: normal;
+  text-align: center;
+  color: #262628;
+}
+
+.fourbyOne-grid .appHead {
+  width: 305px;
+  font-family: Roboto;
+  font-size: 20px;
+  font-weight: normal;
+  font-style: normal;
+  font-stretch: normal;
+  line-height: 1.25;
+  letter-spacing: normal;
+  text-align: left;
+  color: #262628;
+}
+.fourbyOne-grid .appDetails {
+  width: 285px;
+  font-family: Roboto;
+  font-size: 15px;
+  font-weight: normal;
+  font-style: normal;
+  font-stretch: normal;
+  line-height: 1.67;
+  letter-spacing: normal;
+  text-align: left;
+  color: #47474f;
+}

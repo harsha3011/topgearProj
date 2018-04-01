@@ -1,0 +1,544 @@
+.navbar_prop{
+  background-color: #262628;
+  width: 1400px;
+  height: 60px;
+}
+a:link{
+    color: white;
+    text-decoration: none;
+    cursor: auto;
+}
+.with-text{
+  width: 150px;
+  height: 21px;
+  object-fit: contain;
+}
+
+#SOLUTIONS{
+  width: 71px;
+  height: 30px;
+  font-family: Roboto;
+  font-size: 13px;
+  font-weight: bold;
+  font-style: normal;
+  font-stretch: normal;
+  line-height: 2.31;
+  letter-spacing: normal;
+  text-align: center;
+  color: #888894;
+}
+
+#ENTERPRISE-PROGRAMS {
+  width: 153px;
+  height: 30px;
+  font-family: Roboto;
+  font-size: 12px;
+  font-weight: normal;
+  font-style: normal;
+  font-stretch: normal;
+  line-height: 2.5;
+  letter-spacing: 0.9px;
+  text-align: left;
+  color: #888894;
+}
+
+#INDUSTRY-SOLUTIONS {
+  width: 139px;
+  height: 30px;
+  font-family: Roboto;
+  font-size: 12px;
+  font-weight: normal;
+  font-style: normal;
+  font-stretch: normal;
+  line-height: 2.5;
+  letter-spacing: 0.9px;
+  text-align: left;
+  color: #888894;
+}
+
+#ABOUT {
+  width: 43px;
+  height: 30px;
+  font-family: Roboto;
+  font-size: 12px;
+  font-weight: normal;
+  font-style: normal;
+  font-stretch: normal;
+  line-height: 2.5;
+  letter-spacing: 0.9px;
+  text-align: left;
+  color: #888894;
+}
+
+#HOW-IT-WORKS {
+  width: 95px;
+  height: 30px;
+  font-family: Roboto;
+  font-size: 12px;
+  font-weight: normal;
+  font-style: normal;
+  font-stretch: normal;
+  line-height: 2.5;
+  letter-spacing: 0.9px;
+  text-align: left;
+  color: #888894;
+}
+
+#BLOG {
+  width: 34px;
+  height: 30px;
+  font-family: Roboto;
+  font-size: 12px;
+  font-weight: normal;
+  font-style: normal;
+  font-stretch: normal;
+  line-height: 2.5;
+  letter-spacing: 0.9px;
+  text-align: left;
+  color: #888894;
+}
+.search {
+  width: 16px;
+  height: 16px;
+  object-fit: contain;
+}
+
+#Log-In{
+  width: 76px;
+  height: 30px;
+  border-radius: 4px;
+  background-color: #a3a3ad;
+  font-family: Roboto;
+  font-size: 13px;
+  font-weight: 500;
+  font-style: normal;
+  font-stretch: normal;
+  line-height: 2.31;
+  letter-spacing: normal;
+  text-align: left;
+  color: #ffffff;
+}
+
+#Sign-Up{
+  width: 85px;
+  height: 30px;
+  border-radius: 4px;
+  background-color: #0681ff;
+  font-family: Roboto;
+  font-size: 13px;
+  font-weight: 500;
+  font-style: normal;
+  font-stretch: normal;
+  line-height: 2.31;
+  letter-spacing: normal;
+  text-align: left;
+  color: #ffffff;
+}
+
+.Rectangle {
+  width: 1400px;
+  height: 70px;
+  background-color: #ebebeb;
+}
+
+#input {
+  width: 812px;
+  height: 40px;
+  border-radius: 4px;
+  background-color: #ffffff;
+  border: solid 1px #c3c3c8;
+}
+
+.Rectangle1 {
+  width: 1400px;
+  height: 549px;
+  background-color: #ffffff;
+}
+#crowdsource {
+  width: 421px;
+  height: 200px;
+  font-family: Roboto;
+  font-size: 42px;
+  font-weight: 300;
+  font-style: normal;
+  font-stretch: normal;
+  line-height: 1.19;
+  letter-spacing: normal;
+  text-align: left;
+  color: #262628;
+}
+#getmore{
+  width: 421px;
+  height: 50px;
+  font-family: Roboto;
+  font-size: 20px;
+  font-weight: normal;
+  font-style: normal;
+  font-stretch: normal;
+  line-height: 1.25;
+  letter-spacing: normal;
+  text-align: left;
+  color: #262628;
+}
+
+#Start{
+  width: 189px;
+  height: 50px;
+  border-radius: 4px;
+  background-color: #0681ff;
+}
+
+.grain-effect {
+  width: 739px;
+  height: 421px;
+  object-fit: contain;
+}
+
+#headerSection {
+  width: 847px;
+  height: 90px;
+  font-family: Roboto;
+  font-size: 36px;
+  font-weight: 300;
+  font-style: normal;
+  font-stretch: normal;
+  line-height: 1.25;
+  letter-spacing: normal;
+  text-align: center;
+  color: #262628;
+}
+
+.avatar-pm {
+  width: 30px;
+  height: 30px;
+  object-fit: contain;
+  border-radius: 33px;
+}
+.carret-down {
+  width: 9px;
+  height: 4px;
+  object-fit: contain;
+}
+.Rectangle5{
+  width: 1400px;
+  height: 465px;
+  background-color: #ededf2;
+}
+
+.Oval-2 {
+  width: 265px;
+  height: 265px;
+  object-fit: contain;
+}
+#about {
+  width: 738px;
+  height: 50px;
+  font-family: Roboto;
+  font-size: 15px;
+  font-weight: normal;
+  font-style: normal;
+  font-stretch: normal;
+  line-height: 1.67;
+  letter-spacing: normal;
+  text-align: left;
+  color: #47474f;
+}
+
+#post {
+  width: 450px;
+  height: 30px;
+  font-family: Roboto;
+  font-size: 20px;
+  font-weight: normal;
+  font-style: normal;
+  font-stretch: normal;
+  line-height: 1.5;
+  letter-spacing: normal;
+  text-align: left;
+  color: #262628;
+}
+
+#name {
+  width: 846px;
+  height: 45px;
+  font-family: Roboto;
+  font-size: 36px;
+  font-weight: 300;
+  font-style: normal;
+  font-stretch: normal;
+  line-height: 1.25;
+  letter-spacing: normal;
+  text-align: left;
+  color: #262628;
+}
+
+.circle{
+  width: 43px;
+  height: 43px;
+}
+
+.post {
+  width: 148px;
+  height: 45px;
+  font-family: Roboto;
+  font-size: 36px;
+  font-weight: 300;
+  font-style: normal;
+  font-stretch: normal;
+  line-height: 1.25;
+  letter-spacing: normal;
+  text-align: center;
+  color: #262628;
+}
+.section1 {
+  width: 413px;
+  height: 507px;
+  border-radius: 6px;
+  background-image: linear-gradient(141deg, #ae54f4, #4cbff6);
+  box-shadow: 0 2px 9px 0 rgba(38, 38, 40, 0.15);
+}
+.section2 {
+  width: 413px;
+  height: 507px;
+  border-radius: 6px;
+  background-image: linear-gradient(141deg, #ef4770, #eeb885);
+  box-shadow: 0 2px 9px 0 rgba(38, 38, 40, 0.15);
+}
+.section3 {
+  width: 413px;
+  height: 507px;
+  border-radius: 6px;
+  background-image: linear-gradient(141deg, #9747ef, #af85ee);
+  box-shadow: 0 2px 9px 0 rgba(38, 38, 40, 0.15);
+}
+.section4 {
+  width: 413px;
+  height: 507px;
+  border-radius: 6px;
+  background-image: linear-gradient(141deg, #44bfe2, #49d851);
+  box-shadow: 0 2px 9px 0 rgba(38, 38, 40, 0.15);
+}
+.section5 {
+  width: 413px;
+  height: 507px;
+  border-radius: 6px;
+  background-image: linear-gradient(141deg, #ae54f4, #4cbff6);
+  box-shadow: 0 2px 9px 0 rgba(38, 38, 40, 0.15);
+}
+.section6 {
+  width: 413px;
+  height: 507px;
+  border-radius: 6px;
+  background-image: linear-gradient(141deg, #ef4770, #eeb885);
+  box-shadow: 0 2px 9px 0 rgba(38, 38, 40, 0.15);
+}
+.resources-banner {
+  width: 388px;
+  height: 193.6px;
+  object-fit: contain;
+}
+
+.topcoderMain {
+  width: 333px;
+  height: 70px;
+  font-family: Roboto;
+  font-size: 28px;
+  font-weight: normal;
+  font-style: normal;
+  font-stretch: normal;
+  line-height: 1.25;
+  letter-spacing: normal;
+  text-align: left;
+  color: #ffffff;
+}
+.info {
+  width: 333px;
+  height: 78px;
+  font-family: Roboto;
+  font-size: 15px;
+  font-weight: normal;
+  font-style: normal;
+  font-stretch: normal;
+  line-height: 1.73;
+  letter-spacing: normal;
+  text-align: left;
+  color: #ffffff;
+}
+
+.aboutData {
+  width: 163px;
+  height: 18px;
+  font-family: Roboto;
+  font-size: 15px;
+  font-weight: bold;
+  font-style: normal;
+  font-stretch: normal;
+  line-height: normal;
+  letter-spacing: normal;
+  text-align: left;
+  color: #ffffff;
+}
+
+.dateInfo {
+  width: 79px;
+  height: 15px;
+  font-family: Roboto;
+  font-size: 13px;
+  font-weight: normal;
+  font-style: normal;
+  font-stretch: normal;
+  line-height: normal;
+  letter-spacing: normal;
+  text-align: left;
+  color: #ffffff;
+}
+.Readme {
+  width: 123px;
+  height: 40px;
+  border-radius: 4px;
+  background-color: #ffffff;
+  border: solid 1px #c3c3c8;
+  font-family: Roboto;
+  font-size: 15px;
+  font-weight: 500;
+  font-style: normal;
+  font-stretch: normal;
+  line-height: 2.67;
+  letter-spacing: normal;
+  text-align: left;
+  color: #47474f;
+}
+
+.Rectangle4 {
+  width: 1400px;
+ height: 728px;
+ background-color: #ededf2;
+}
+.postRelated {
+  width: 200px;
+  height: 45px;
+  font-family: Roboto;
+  font-size: 36px;
+  font-weight: 300;
+  font-style: normal;
+  font-stretch: normal;
+  line-height: 1.25;
+  letter-spacing: normal;
+  text-align: left;
+  color: #262628;
+}
+
+.Rectangle-5 {
+  width: 1279px;
+  height: 450px;
+  object-fit: contain;
+  border-radius: 6px;
+  background-blend-mode: multiply;
+  background-image: linear-gradient(109deg, #ef4770, #eeb885);
+  box-shadow: 0 2px 9px 0 rgba(38, 38, 40, 0.15);
+}
+.Rectangle3 {
+  width: auto;
+  height: 50%;
+}
+.postname {
+  width: 219px;
+  height: 20px;
+  font-family: Roboto;
+  font-size: 15px;
+  font-weight: normal;
+  font-style: normal;
+  font-stretch: normal;
+  line-height: 1.33;
+  letter-spacing: normal;
+  text-align: left;
+  color: #262628;
+}
+.datepost {
+  width: 100px;
+  height: 25px;
+  font-family: Roboto;
+  font-size: 13px;
+  font-weight: normal;
+  font-style: normal;
+  font-stretch: normal;
+  line-height: 1.92;
+  letter-spacing: normal;
+  text-align: left;
+  color: #47474f;
+}
+.waysPost {
+  width: 846px;
+  height: 100px;
+  font-family: Roboto;
+  font-size: 42px;
+  font-weight: 300;
+  font-style: normal;
+  font-stretch: normal;
+  line-height: 1.19;
+  letter-spacing: normal;
+  text-align: left;
+  color: #262628;
+}
+.subHead {
+  width: 846px;
+  height: 175px;
+  font-family: Roboto;
+  font-size: 20px;
+  font-weight: normal;
+  font-style: normal;
+  font-stretch: normal;
+  line-height: 1.75;
+  letter-spacing: normal;
+  text-align: left;
+  color: #47474f;
+}
+.specialRegion {
+  width: 846px;
+  height: 75px;
+  font-family: Roboto;
+  font-size: 15px;
+  font-weight: normal;
+  font-style: normal;
+  font-stretch: normal;
+  line-height: 1.67;
+  letter-spacing: normal;
+  text-align: left;
+  color: #47474f;
+}
+.echo-look-image-1024x576 {
+  width: 846px;
+  height: 476px;
+  object-fit: contain;
+}
+.blogHead {
+  width: 846px;
+  height: 35px;
+  font-family: Roboto;
+  font-size: 28px;
+  font-weight: normal;
+  font-style: normal;
+  font-stretch: normal;
+  line-height: 1.25;
+  letter-spacing: normal;
+  text-align: left;
+  color: #262628;
+}
+.paraRegion {
+  width: 846px;
+  height: 200px;
+  font-family: Roboto;
+  font-size: 15px;
+  font-weight: normal;
+  font-style: normal;
+  font-stretch: normal;
+  line-height: 1.67;
+  letter-spacing: normal;
+  text-align: left;
+  color: #47474f;
+}
+.ebay-visual-image-search-1024x563 {
+  width: 846px;
+  height: 368px;
+  object-fit: contain;
+}
